@@ -1,9 +1,0 @@
-name = "redirect-to-d2"
-main = "src/worker.js"
-compatibility_date = "2000-01-01"
-workers_dev = true
-
-[[d1_databases]]
-binding = "DB" # i.e. available in your Worker on env.DB
-database_name = "email_storage"
-database_id = "45ae6f05-4dd2-4a2a-a44a-4908fa1e3108"
