@@ -174,3 +174,7 @@ dist
 # MacOS
 
 .DS_Store
+
+# D1 test files
+
+*.sql
